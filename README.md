@@ -1,2 +1,3 @@
 # Hello-Github
-The first repository I create (no function in it).
+This is the first repository I create (no function in it).
+Just for my learning.
